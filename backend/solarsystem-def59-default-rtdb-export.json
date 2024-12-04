@@ -1,0 +1,148 @@
+{
+  "type": "service_account",
+  "project_id": "test-507a6",
+  "private_key_id": "18b91ec45b6048dc7b77d348ae0d828e96b100cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCXPdGG4jIwY/ci\nwLnM/v/jrdrE53N5+pQOAtQ/Ug/lsNEg8R1tR4QHka6ibt+y7eKbJfKqsXO0Mq8H\nPH3u6UjrHe1D2f4RkbNQmg7nFaNs7dJ6D9tiM+nZ0WzjBUIu9u3eKANUz0pQ3YQk\ngbK86dxa/ULwqXBMijU79sqcQxu+T6WjRCudh2j2wlwlwStysJ8x0pEMKjXdH6iJ\nMDfCgBtd+6h23eEOMp77dXUCc/Mr6E9tUalbrXPmzzD5ajnCtVKwhHsLFRK5CgaR\nBe9DSLBguFg2bJN+6S+XZ3N9jAlRoKGD93cHNz0llKOXwIlj7dD+a6xDp7N70Zhx\nhzn6zpVPAgMBAAECggEARe11ur1MAla+Fgnw/mjqrH0eWQtAt6XVnbLOKubI5eT+\nlJIXDodR8uP3UDAeaw8VRrHhhO2eNzN1/M0J1xRyvA7uvIAGul3ZAEvy1wKIuN0v\nA3PgdgPVvHnZtA+i3a8bJSvv+l8Ll98L8YssNq+UTFesAzT8cM84NNzzKhPXOILJ\n3NVqtFHd/jgvjr7BUdeP3LZO81q4WKTVKPcLF8uGw+0ZPFsWLX7rnISYVlFOFHeg\nu7xYOTiX67IAjqiUfQ+zHbjB9DLGnLHA4CHJdXlzZaRCogMeiHRjvqJsBYfDWXwc\nBObfCuMGJ6C+GjPDUpSXHE6WOqbB/v6UWmEQk1s6qQKBgQDLpxZJ6OEEHOu9sAHA\n9OLPOtc7uSed6uHiDuC2EHl94rBZ7eUUCc0zGJoyF1bKrplaP/XIFyyT4u3kvaot\nurGdXnWN9m+x9JrnwlGboTTqz9Z01OYinMN+ZYIj3y39mLmhGWVEY6TeqOtYDGkd\n6JnfSFTjbVmZxd1ZYta9TjzRdwKBgQC+He2m9SC1JwnfjSsYSH7RXn6jKqvy8gY8\nrEgDKz4r59UOl/CUiv/53eDtYyTKzGE1d3WbEsK4jNRoVwdsGwnrrJWSSBP9mZW0\nJrf/LAczmgjwUUKC0IZDsukG6XAL0lHdoTqmxefVQO+fQHStMedDEyE+TVKI3EAK\n7Cg7LaeQ6QKBgHJZ1MMVd1u23Yv6S1HMb5qK4JYRZjRe0gz766NvZriP1BP653kz\n87uwIczknABcv5EUfu6mTIqRjqC0+tyIivjhNELNUHRs85oU23v2rd73auTZMovW\n2FKdrtBzncBaxEi4GMuo48d+s/8RoOiBVf0xATFekkQs/RgWzpsnVjELAoGADdiW\nJ1Ow9yCJuotIeTNGcS8ln/KKpV31EFQnxntOwtnWjYKJVfgtnmAHcqKG2nI6Hi++\nE/Yw0koHajX0Z24sscpW9lljg1O9MGqleeMV/y8XuZDhfC99p86O5B76NxIxPifw\n4paFROW+zeVe2gJJanwpLqVo/mi0DVeXsn+ntYkCfxjNFwwNiJAfxINYJwzZl8Je\nDfHC7CSYxjF4JkCmQnPnwSxLhvLeNbByUZc6zYa3F2ZIeA/jpa6JViLKRSAjN3HO\n3mIqUVWOfeqR2db/+CSkNgQP0yx91sJLQLGDYzIXwDP1C7xjCiU3iwFZ3jSkUNsg\n6mv7SwCqcWWuTWnyoKQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-zzv6d@test-507a6.iam.gserviceaccount.com",
+  "client_id": "111324683464586499185",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-zzv6d%40test-507a6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "planets": [
+    {
+      "description": "عطارد هو أقرب كوكب إلى الشمس، وهو صغير من حيث الحجم وليس لديه جو.",
+      "funFacts": [
+        "عطارد ليس لديه جو.",
+        "يوم عطارد أطول من سنته.",
+        "تتراوح درجات الحرارة بين 430 درجة مئوية خلال النهار و -180 درجة مئوية ليلاً."
+      ],
+      "image": "assets/images/mercury.jpg",
+      "name": "عطارد"
+    },
+    {
+      "description": "الزهرة هو الكوكب الثاني في النظام الشمسي وغالبًا ما يُطلق عليه أخت الأرض بسبب حجمهما المشابه.",
+      "funFacts": [
+        "الزهرة لديه درجات حرارة مرتفعة للغاية بسبب غلافه الجوي الكثيف.",
+        "يوم واحد على الزهرة أطول من سنة واحدة على الزهرة.",
+        "الزهرة يدور في الاتجاه المعاكس لبقية الكواكب."
+      ],
+      "image": "assets/images/venus.jpg",
+      "name": "الزهرة"
+    },
+    {
+      "description": "الأرض هي الكوكب الوحيد المعروف الذي يدعم الحياة.",
+      "funFacts": [
+        "تشكل المياه حوالي 71% من سطح الأرض.",
+        "تدور الأرض حول الشمس بسرعة 30 كم في الثانية.",
+        "الأرض هي الكوكب الوحيد المعروف بوجود الحياة."
+      ],
+      "image": "assets/images/earth.jpg",
+      "name": "الأرض"
+    },
+    {
+      "description": "المريخ هو الكوكب الأحمر، ويشتهر بوجود الغبار والصخور الحمراء.",
+      "funFacts": [
+        "المريخ لديه أكبر جبل في النظام الشمسي، وهو أوليمبوس مونس.",
+        "لديه مواسم مشابهة لتلك الموجودة على الأرض.",
+        "المريخ لديه غلاف جوي رقيق يتركز أساساً على ثاني أكسيد الكربون."
+      ],
+      "image": "assets/images/mars.jpg",
+      "name": "المريخ"
+    },
+    {
+      "description": "المشتري هو أكبر كوكب في النظام الشمسي ويتميز بجو مليء بالعواصف.",
+      "funFacts": [
+        "يمتلك المشتري بقعة حمراء كبيرة، وهي في الواقع عاصفة عملاقة.",
+        "لديه أكثر من 75 قمرًا، بما في ذلك غانيميد، أكبر قمر في النظام الشمسي.",
+        "يمتلك المشتري حقل جاذبية قوي جدًا يجذب العديد من المذنبات والكويكبات."
+      ],
+      "image": "assets/images/jupiter.jpg",
+      "name": "المشتري"
+    },
+    {
+      "description": "زحل هو الكوكب المعروف بحلقاته الجميلة والمميزة.",
+      "funFacts": [
+        "تتكون حلقات زحل من جليد وصخور صغيرة.",
+        "زحل هو الكوكب الثاني الأكبر في النظام الشمسي.",
+        "يمكن رؤية حلقات زحل من خلال التلسكوب."
+      ],
+      "image": "assets/images/saturn.jpg",
+      "name": "زحل"
+    },
+    {
+      "description": "أورانوس هو كوكب غازي يتميز بلونه الأزرق الفاتح بسبب وجود الميثان في غلافه الجوي.",
+      "funFacts": [
+        "أورانوس هو الكوكب الوحيد الذي يدور على جانبه.",
+        "لديه حلقات أيضًا، لكنها ليست واضحة مثل حلقات زحل.",
+        "يوم واحد على أورانوس يساوي حوالي 17 ساعة."
+      ],
+      "image": "assets/images/uranus.jpg",
+      "name": "أورانوس"
+    },
+    {
+      "description": "نبتون هو أبعد كوكب عن الشمس ويتميز بجو سريع الحركة وغيوم كثيفة.",
+      "funFacts": [
+        "يمتلك نبتون رياحًا عاتية تعتبر من أسرع الرياح في النظام الشمسي.",
+        "توجد عواصف كبيرة على نبتون، مثل البقعة الداكنة.",
+        "يستغرق نبتون حوالي 165 عامًا لإكمال دورة واحدة حول الشمس."
+      ],
+      "image": "assets/images/neptune.jpg",
+      "name": "نبتون"
+    }
+  ],
+  "quizQuestions": [
+    {
+      "answer": "المشتري",
+      "options": [
+        "الأرض",
+        "المشتري",
+        "المريخ",
+        "زحل"
+      ],
+      "question": "ما هي أكبر كوكب في النظام الشمسي؟"
+    },
+    {
+      "answer": "عطارد",
+      "options": [
+        "الزهرة",
+        "الأرض",
+        "عطارد",
+        "المريخ"
+      ],
+      "question": "ما هو أقرب كوكب إلى الشمس؟"
+    },
+    {
+      "answer": "زحل",
+      "options": [
+        "الأرض",
+        "المريخ",
+        "زحل",
+        "المشتري"
+      ],
+      "question": "أي كوكب معروف بحلقاته؟"
+    },
+    {
+      "answer": "أزرق",
+      "options": [
+        "أزرق",
+        "أحمر",
+        "أخضر",
+        "أصفر"
+      ],
+      "question": "ما هي لون نبتون؟"
+    },
+    {
+      "answer": "عطارد",
+      "options": [
+        "عطارد",
+        "الزهرة",
+        "الأرض",
+        "نبتون"
+      ],
+      "question": "ما هو أصغر كوكب في النظام الشمسي؟"
+    }
+  ]
+}
+
